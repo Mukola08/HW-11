@@ -1,11 +1,11 @@
-::after,
-::before {
+*::after,
+*::before {
     box-sizing: border-box;
 }
 
 .text {
-    width: 350;
-    height: 220;
+    width: 350px;
+    height: 220px;
     background-color: green;
     padding-top: 15px;
     padding-left: 10px;
