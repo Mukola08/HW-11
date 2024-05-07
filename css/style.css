@@ -1,10 +1,11 @@
-*::after,
-*::before {
+*,
+::after,
+::before {
     box-sizing: border-box;
 }
 
 .test {
-    width: 350px;
+    width: 250px;
     height: 220px;
     background-color: green;
     padding-top: 15px;
